@@ -18,8 +18,8 @@ page-layout: full
 Doctor of Philosohpy in Statistics, University of Edinburgh, UK, <br>
 *"Bayesian analysis of non-stationary extremes", 2022.*
 
-Master of Science in  Statistics & Oprerational Research, University of Edinburgh, <br>
-UK, *"A primer on Benford's Law", 2017.* 
+Master of Science in  Statistics & Oprerational Research, University of Edinburgh, UK, <br>
+*"A primer on Benford's Law", 2017.* 
 
 Master of Arts in Economics, Yonsei University, South Korea, <br>
 *"A study on the won/dollar exchange rate in the short and long run: comparing the time and frequency domain approaches", 2003.*
