@@ -30,6 +30,8 @@ Bachelor of Arts in Economics, Yonsei University, South Korea, 2001.
 
 ### Publications
 
+Yoon, Y., Lee, J., & Hwang, J. (2024). A study on corporate carbon emissions and loan provisions. Journal of Financial Regulation and Supervision. (to appear)
+
 [Lee, J., de Carvalho, M., Rua, A. & Avila, J. (2024). Bayesian smoothing for time‑varying extremal dependence. Journal of the Royal Statistical Society: Series C, qlae002.](https://doi.org/10.1093/jrsssc/qlae002)
 
 [Lee, J., Kim, J. & Choi, K. (2023). Joint climate stress-test, FSS working paper 2023-1.](https://www.fss.or.kr/fss/bbs/B0000083/view.do?nttId=132378&menuNo=200398&pageIndex=1)
@@ -41,7 +43,7 @@ Bachelor of Arts in Economics, Yonsei University, South Korea, 2001.
 
 ### Talks/Posters
 
-Lee, Junho (2024), "Stress-testing & other macroprudential supervision techniques in the Financial Supervisory Service", a talk at NFSC-KOICA international conference, 'Vietnam's financial market: Opportunities and challenges', Dec 2023, Dalat, Vietnam. 
+Lee, Junho (2023), "Stress-testing & other macroprudential supervision techniques in the Financial Supervisory Service", a talk at NFSC-KOICA international conference, 'Vietnam's financial market: Opportunities and challenges', Dec 2023, Dalat, Vietnam. 
 
 Lee, J., & Kim, J. (2023). “Climate stress‑testing for banking and insurance sectors in South Korea”. a talk at SPGMI_KPMG Webinar, March 2023, on‑line.
 

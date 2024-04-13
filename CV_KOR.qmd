@@ -30,6 +30,8 @@ page-layout: full
 
 ### Publications
 
+윤양인·이준호·황재학,(2024). 기업의 온실가스배출과 신용공급에 관한 연구. 금융감독연구. (게재예정)
+
 [Lee, J., de Carvalho, M., Rua, A. & Avila, J. (2024). Bayesian smoothing for time‑varying extremal dependence. Journal of the Royal Statistical Society: Series C, qlae002.](https://doi.org/10.1093/jrsssc/qlae002)
 
 [이준호·김정일·최광신 (2023). 금융권 공동 기후 스트레스테스트, FSS working paper 2023-1.](https://www.fss.or.kr/fss/bbs/B0000083/view.do?nttId=132378&menuNo=200398&pageIndex=1)
@@ -41,7 +43,7 @@ page-layout: full
 
 ### Talks/Posters
 
-Lee, Junho (2024), "Stress-testing & other macroprudential supervision techniques in the Financial Supervisory Service", a talk at NFSC-KOICA international conference, 'Vietnam's financial market: Opportunities and challenges', Dec 2023, Dalat, Vietnam. 
+Lee, Junho (2023), "Stress-testing & other macroprudential supervision techniques in the Financial Supervisory Service", a talk at NFSC-KOICA international conference, 'Vietnam's financial market: Opportunities and challenges', Dec 2023, Dalat, Vietnam. 
 
 이준호·김정일(2023). “금융감독기관의 기후스트레스테스트 진행현황 및 향후계획”. SPGMI-KPMG 웹비나, 2023.3.
 
