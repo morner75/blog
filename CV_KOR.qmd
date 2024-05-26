@@ -30,13 +30,13 @@ page-layout: full
 
 ### Publications
 
-윤양인·이준호·황재학,(2024). 기업의 온실가스배출과 신용공급에 관한 연구. 금융감독연구. (게재예정)
+[윤양인·이준호·황재학,(2024). 기업의 온실가스배출과 신용공급에 관한 연구. 금융감독연구, vol.11, no.1, pp. 67-101. ](https://doi.org/10.23229/fss.2024.11.1.003)
 
 [Lee, J., de Carvalho, M., Rua, A. & Avila, J. (2024). Bayesian smoothing for time‑varying extremal dependence. Journal of the Royal Statistical Society: Series C, qlae002.](https://doi.org/10.1093/jrsssc/qlae002)
 
 [이준호·김정일·최광신 (2023). 금융권 공동 기후 스트레스테스트, FSS working paper 2023-1.](https://www.fss.or.kr/fss/bbs/B0000083/view.do?nttId=132378&menuNo=200398&pageIndex=1)
 
-[윤양인·이준호·황재학,(2023). 기업의 탄소배출과 주가수익률간 관계에 관한 연구. 금융감독연구, 10(2), 1-44..](http://doi.org/10.23229/fss.2023.10.2.001)
+[윤양인·이준호·황재학,(2023). 기업의 탄소배출과 주가수익률간 관계에 관한 연구. 금융감독연구, 10(2), 1-44.](http://doi.org/10.23229/fss.2023.10.2.001)
 
 [Lee, J. & de Carvalho, M. (2019). Technological improvements or climate change? Bayesian modeling of time‑varying conformance to Benford’s Law. Plos One, 14(4), e0213300.](https://doi.org/10.1371/journal.pone.0213300)
 

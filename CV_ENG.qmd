@@ -30,7 +30,7 @@ Bachelor of Arts in Economics, Yonsei University, South Korea, 2001.
 
 ### Publications
 
-Yoon, Y., Lee, J., & Hwang, J. (2024). A study on corporate carbon emissions and loan provisions. Journal of Financial Regulation and Supervision. (to appear)
+[Yoon, Y., Lee, J., & Hwang, J. (2024). A study on corporate carbon emissions and loan provisions. Journal of Financial Regulation and Supervision, vol.11, no.1, pp. 67-101.](https://doi.org/10.23229/fss.2024.11.1.003)
 
 [Lee, J., de Carvalho, M., Rua, A. & Avila, J. (2024). Bayesian smoothing for time‑varying extremal dependence. Journal of the Royal Statistical Society: Series C, qlae002.](https://doi.org/10.1093/jrsssc/qlae002)
 
