@@ -1,12 +1,10 @@
 [
   {
-    "listing": "/archive.html",
-    "items": [
-      "/posts/smoothing/smoothing1.html"
-    ]
+    "listing": "/blog.html",
+    "items": []
   },
   {
-    "listing": "/blog.html",
+    "listing": "/archive.html",
     "items": [
       "/posts/smoothing/smoothing1.html"
     ]

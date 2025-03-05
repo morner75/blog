@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://morner75.github.io/blog/posts/smoothing/smoothing1.html</loc>
-    <lastmod>2024-04-13T10:02:21.033Z</lastmod>
-  </url>
-  <url>
-    <loc>https://morner75.github.io/blog/CV_ENG.html</loc>
-    <lastmod>2024-04-13T10:02:21.396Z</lastmod>
-  </url>
-  <url>
-    <loc>https://morner75.github.io/blog/archive.html</loc>
-    <lastmod>2024-04-13T10:02:21.712Z</lastmod>
+    <loc>https://morner75.github.io/blog/blog.html</loc>
+    <lastmod>2025-03-05T07:08:57.584Z</lastmod>
   </url>
   <url>
     <loc>https://morner75.github.io/blog/index.html</loc>
-    <lastmod>2024-04-13T10:02:21.999Z</lastmod>
+    <lastmod>2024-03-20T12:58:03.548Z</lastmod>
+  </url>
+  <url>
+    <loc>https://morner75.github.io/blog/working/20240414_ggmap.html</loc>
+    <lastmod>2024-04-18T06:22:14.285Z</lastmod>
+  </url>
+  <url>
+    <loc>https://morner75.github.io/blog/posts/smoothing/smoothing1.html</loc>
+    <lastmod>2024-03-20T12:58:03.548Z</lastmod>
+  </url>
+  <url>
+    <loc>https://morner75.github.io/blog/CV_ENG.html</loc>
+    <lastmod>2025-03-05T07:12:02.397Z</lastmod>
+  </url>
+  <url>
+    <loc>https://morner75.github.io/blog/archive.html</loc>
+    <lastmod>2024-03-20T12:58:03.547Z</lastmod>
   </url>
   <url>
     <loc>https://morner75.github.io/blog/CV_KOR.html</loc>
-    <lastmod>2024-04-13T10:02:22.334Z</lastmod>
-  </url>
-  <url>
-    <loc>https://morner75.github.io/blog/blog.html</loc>
-    <lastmod>2024-04-13T10:02:22.643Z</lastmod>
+    <lastmod>2025-03-05T07:12:02.397Z</lastmod>
   </url>
 </urlset>
