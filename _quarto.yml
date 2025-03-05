@@ -8,10 +8,8 @@ website:
     left:
       - text: Blog
         href: blog.qmd
-      - text: Dashboard
+      - text: Github
         href: https://www.github.com/morner75
-      - text: Archive
-        href: archive.qmd
       - text: Curriculum Vitae
         menu:
           - href: CV_KOR.qmd
