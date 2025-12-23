@@ -43,7 +43,11 @@ Bachelor of Arts in Economics, Yonsei University, South Korea, 2001.
 
 ### Talks/Posters
 
-Lee, Junho (2023), "Stress-testing & other macroprudential supervision techniques in the Financial Supervisory Service", a talk at NFSC-KOICA international conference, 'Vietnam's financial market: Opportunities and challenges', Dec 2023, Dalat, Vietnam. 
+Lee, Junho (2025), "Project achievements and challenges", a talk at KOICA-NEU-FSS International Conference, 'AI an Innovations in Financial Market Analysis', December 2025, Hanoi, Vietnam.
+
+Lee, Junho (2025), "Global Insights on Strengthening Financial Market Deepening Including Lessons from Korea", a talk at Risk & Governance Summit (RGS) 2025, August 2025, Jakarta, Indonesia.
+
+Lee, Junho (2023), "Stress-testing & other macroprudential supervision techniques in the Financial Supervisory Service", a talk at NFSC-KOICA international conference, 'Vietnam's financial market: Opportunities and challenges', December 2023, Dalat, Vietnam. 
 
 Lee, J., & Kim, J. (2023). “Climate stress‑testing for banking and insurance sectors in South Korea”. a talk at SPGMI_KPMG Webinar, March 2023, on‑line.
 
@@ -68,8 +72,10 @@ Lee, J., & de Carvalho, M. (2018). “Modelling Time‑Varying Conformance to Be
 
 **Financial Supervisory Service** (2003 -- present)
 
+* KOICA Project -  Strengthening Financial Sector Early Warning and Contingency Management Capacity in Vietnam, Project Manager, 2024 -- 2025
 
-* Developing fraud detection models in stock markets, Lead Examiner, 2024 -- present.
+
+* Developing fraud detection models in stock markets, Lead Examiner, 2024.
 
 * Stress‑testing of financial companies and scenario analysis of climate‑change, Lead Manager, 2021 -- 2023.
 

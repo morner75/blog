@@ -43,6 +43,10 @@ page-layout: full
 
 ### Talks/Posters
 
+Lee, Junho (2025), "Project achievements and challenges", a talk at KOICA-NEU-FSS International Conference, 'AI an Innovations in Financial Market Analysis', December 2025, Hanoi, Vietnam.
+
+Lee, Junho (2025), "Global Insights on Strengthening Financial Market Deepening Including Lessons from Korea", a talk at Risk & Governance Summit (RGS) 2025, August 2025, Jakarta, Indonesia.
+
 Lee, Junho (2023), "Stress-testing & other macroprudential supervision techniques in the Financial Supervisory Service", a talk at NFSC-KOICA international conference, 'Vietnam's financial market: Opportunities and challenges', Dec 2023, Dalat, Vietnam. 
 
 이준호·김정일(2023). “금융감독기관의 기후스트레스테스트 진행현황 및 향후계획”. SPGMI-KPMG 웹비나, 2023.3.
@@ -63,7 +67,9 @@ Lee, J., & de Carvalho, M. (2018). “Modelling Time‑Varying Conformance to Be
 
 **금융감독원** (2003 ~ 현재)
 
-* 불공정거래 조사 및 시세조종탐지/자금추적 모형 개발 (조사2국), 수석검사역, 2024 -- 현재.
+* KOICA 베트남 금융분야 조기경보 및 위기관리 역량강화 사업, 담당관(Project Manager), 2025 -- 2025.
+
+* 불공정거래 조사 및 시세조종탐지/자금추적 모형 개발 (조사2국), 수석검사역, 2024.
 
 * 스트레스테스트 및 기후시나리오 분석 (금융시장안정국), 수석조사역, 2021 -- 2023.
 
